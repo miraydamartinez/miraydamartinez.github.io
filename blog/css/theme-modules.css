@@ -562,8 +562,12 @@ select {
 }
 
 .navbar-light .navbar-brand img {
-    max-height: 30px;
-    margin-right: 5px;
+    max-height: 50px;
+    display: block;
+    margin-left: 22.5em;
+    margin-right:auto;
+    width: 25%;
+
 }
 
 .navbar-dark .navbar-nav .nav-link {
