@@ -181,8 +181,8 @@
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 
-		background: #b49da4 url("images/343.jpg") bottom left;
-		background-repeat: no-repeat;
+		background: #a8939a url("images/345.jpg") bottom left;
+		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
 		opacity: 1;
