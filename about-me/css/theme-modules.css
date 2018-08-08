@@ -186,6 +186,7 @@ table,
 
 pre {
     background: #ffffff;
+    position: relative;
 }
 
 ul,
@@ -251,7 +252,7 @@ button:focus {
 img {
     max-width: 100%;
     height: auto;
-    positoin: relative;
+    position: relative;
 }
 
 blockquote,
