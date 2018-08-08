@@ -1849,6 +1849,7 @@ ul.products {
 .post_title {
     -ms-word-wrap: break-word;
     word-wrap: break-word;
+    margin-left: auto;
 }
 
 .post_img {
