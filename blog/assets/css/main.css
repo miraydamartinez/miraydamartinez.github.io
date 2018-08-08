@@ -1766,6 +1766,7 @@ input, select, textarea {
 		color: #000000;
 		position: relative;
 		margin: 0 0 .5em 0;
+		text-align:left;
 	}
 
 	header h2 + p {
