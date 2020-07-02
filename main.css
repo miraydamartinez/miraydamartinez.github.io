@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+
+/* 
+ * @miraydamartinez
+*/
+
+	/* header */
+
+	#header {
+		width: 700px;
+		height: 250px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	body {
+		background-image: url("360.jpg");
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+
+	ol, ul {
+		list-style: none;
+		word-spacing: 10px;
+		font-size: 30px;
+	}
+
+	a {
+		border-radius: 100%;
+	    border: solid 1px #000;
+	    display: inline-block;
+	    font-size: 1em;
+	    height: 1.75em;
+	    line-height: 1.75em;
+	    position: relative;
+	    text-align: center;
+	    width: 1.75em;
+	}
+
+	h1 {
+		font-size: 75px; 
+		margin-bottom: 0px;
+	}
+
+	p {
+		font-size: 25px;
+		line-height: 0px;
+	}
+
+	/* icon */
+	.icon {
+		text-decoration: none;
+		position: relative;
+		color: inherit;
+	}
+
+		.icon:before {
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
+
+		.icon > .label {
+			display: none;
+		}
+
+	/* footer */
+	#footer {
+		position: absolute;
+		text-align: center;
+		color: #FFF;
+		bottom: 0;
+		width: 100%;
+	}
