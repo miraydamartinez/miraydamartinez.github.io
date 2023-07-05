@@ -14,7 +14,7 @@
 	}
 
 	body {
-		background-image: url("360.jpg");
+		background-image: url("solid-background.png");
 		font-family: 'Source Sans Pro', sans-serif;
 	}
 
@@ -68,7 +68,7 @@
 	#footer {
 		position: absolute;
 		text-align: center;
-		color: #FFF;
+		color: #000000;
 		bottom: 0;
 		width: 100%;
 	}
